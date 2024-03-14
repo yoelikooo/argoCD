@@ -4,6 +4,6 @@ metadata:
   name: mypod
 spec:
   containers:
-    - name: mycontainer
-      image: nginx
-jk,,,
+    - name: mycontainerasasadasdasdasd
+      image: nginxasdasda
+
