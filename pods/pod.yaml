@@ -4,6 +4,7 @@ metadata:
   name: mypod
 spec:
   containers:
-    - name: mycontainerasasadasdasdasd
-      image: nginxasdasda
+    - name: mycontainer
+      image: nginx
+      role: bomb
 
